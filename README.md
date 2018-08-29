@@ -10,3 +10,8 @@ influx 教學
 https://dotblogs.com.tw/dizzydizzy/2018/07/10/influxubuntu
 
 https://www.linuxdaxue.com/influxdb-write-data-by-http-api.html
+
+
+MQTT C Cient的實現
+
+https://tw.saowen.com/a/be5ac2581cc5a65418105980e3ffa1aa6164bad5a8733db7cef22b52f125ad3d
