@@ -13,9 +13,11 @@ https://www.linuxdaxue.com/influxdb-write-data-by-http-api.html
 
 https://dotblogs.com.tw/dizzydizzy/2018/06/30/influxbasicoper
 
-influxdb安裝及執行-ubuntu篇
+influxdb安裝及執行-ubuntu篇
 https://dotblogs.com.tw/dizzydizzy/2018/07/10/influxubuntu
 
+influx+golang
+https://www.cnblogs.com/zhja/p/6065575.html
 
 MQTT C Cient的實現
 
