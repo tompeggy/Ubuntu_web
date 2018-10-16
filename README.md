@@ -22,3 +22,7 @@ https://www.cnblogs.com/zhja/p/6065575.html
 MQTT C Cient的實現
 
 https://tw.saowen.com/a/be5ac2581cc5a65418105980e3ffa1aa6164bad5a8733db7cef22b52f125ad3d
+
+influxdb + Grafana
+
+https://www.rittmanmead.com/blog/2015/02/obiee-monitoring-and-diagnostics-with-influxdb-and-grafana/
