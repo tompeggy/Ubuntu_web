@@ -25,4 +25,5 @@ https://tw.saowen.com/a/be5ac2581cc5a65418105980e3ffa1aa6164bad5a8733db7cef22b52
 
 influxdb + Grafana
 
+https://oranwind.org/grafana-zi-liao-shi-jue-gong-ju-grafana-yu-ubuntu-shang-an-zhuang/
 https://www.rittmanmead.com/blog/2015/02/obiee-monitoring-and-diagnostics-with-influxdb-and-grafana/
