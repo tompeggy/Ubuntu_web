@@ -13,6 +13,9 @@ https://www.linuxdaxue.com/influxdb-write-data-by-http-api.html
 
 https://dotblogs.com.tw/dizzydizzy/2018/06/30/influxbasicoper
 
+Good
+https://kiswo.com/article/1020
+
 influxdb安裝及執行-ubuntu篇
 https://dotblogs.com.tw/dizzydizzy/2018/07/10/influxubuntu
 
