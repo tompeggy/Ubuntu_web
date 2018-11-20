@@ -30,3 +30,9 @@ influxdb + Grafana
 
 https://oranwind.org/grafana-zi-liao-shi-jue-gong-ju-grafana-yu-ubuntu-shang-an-zhuang/
 https://www.rittmanmead.com/blog/2015/02/obiee-monitoring-and-diagnostics-with-influxdb-and-grafana/
+
+
+ubuntu 教學
+
+硬碟格式化
+https://blog.gtwang.org/linux/linux-add-format-mount-harddisk/
