@@ -36,3 +36,8 @@ ubuntu 教學
 
 硬碟格式化
 https://blog.gtwang.org/linux/linux-add-format-mount-harddisk/
+
+程式教學平台
+
+https://pydoing.blogspot.com/2010/07/c-atoi.html   程式語言 C, C++, C#, Java, JavaScript, Objective-C, Perl, PHP, Python, Ruby, Swift
+與網頁標記語言 HTML, CSS 的教學部落格
